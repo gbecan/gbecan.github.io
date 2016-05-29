@@ -1,0 +1,19 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+{% for category in site.data.publications %}
+  {% for publication in category.publications %}
+  <p>
+      <strong>{{publication.title}}</strong>
+      {% if publication.pdf %}<a href="{{publication.pdf}}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>{% endif %}
+      {% if publication.slides %}<a href="{{publication.slides}}"><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i></a>{% endif %}
+      <br/>
+      {{publication.authors}}<br/>
+      {{publication.where}}, {{publication.year}}
+      
+  </p>
+  {% endfor %}
+{% endfor %}

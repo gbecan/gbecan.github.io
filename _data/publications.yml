@@ -1,0 +1,25 @@
+-
+  year: 2013
+  publications:
+    -
+      title: Breathing Ontological Knowledge Into Feature Model Management
+      authors: Guillaume Bécan, Mathieu Acher, Benoit Baudry, Sana Ben Nasr
+      where: Technical Report RT-0441, Inria
+      year: 2013
+      pdf: http://hal.inria.fr/docs/00/87/48/67/PDF/RT-441.pdf
+    -
+      title: On Product Comparison Matrices and Variability Models from a Product Comparison/Configuration Perspective
+      authors: Nicolas Sannier, Guillaume Bécan, Sana Ben Nasr, Benoit Baudry
+      where: JLDP
+      year: 2013
+      pdf: http://hal.inria.fr/docs/00/91/56/57/PDF/JLDP2013_PCM_suites.pdf
+    -
+      title: An Ontologic-Aware Feature Modeling Environment
+      authors: Guillaume Bécan, Sana Ben Nasr, Benoit Baudry
+      where: JLDP
+      year: 2013
+      pdf: http://hal.inria.fr/docs/00/91/56/62/PDF/JLDP2013_KSynthesis.pdf
+
+
+
+
