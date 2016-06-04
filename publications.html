@@ -4,8 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-{% for category in site.data.publications %}
-  {% for publication in category.publications %}
+{% for category in site.data.publications reversed %}
+    <h3>{{category.year}}</h3>
+  {% for publication in category.publications reversed %}
   <p>
       <strong>{{publication.title}}</strong>
       {% if publication.pdf %}<a href="{{publication.pdf}}"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>{% endif %}

@@ -2,23 +2,97 @@
   year: 2013
   publications:
     -
-      title: Breathing Ontological Knowledge Into Feature Model Management
+      title: "Breathing Ontological Knowledge Into Feature Model Management"
       authors: Guillaume Bécan, Mathieu Acher, Benoit Baudry, Sana Ben Nasr
       where: Technical Report RT-0441, Inria
       year: 2013
       pdf: http://hal.inria.fr/docs/00/87/48/67/PDF/RT-441.pdf
     -
-      title: On Product Comparison Matrices and Variability Models from a Product Comparison/Configuration Perspective
+      title: "On Product Comparison Matrices and Variability Models from a Product Comparison/Configuration Perspective"
       authors: Nicolas Sannier, Guillaume Bécan, Sana Ben Nasr, Benoit Baudry
       where: JLDP
       year: 2013
       pdf: http://hal.inria.fr/docs/00/91/56/57/PDF/JLDP2013_PCM_suites.pdf
     -
-      title: An Ontologic-Aware Feature Modeling Environment
+      title: "An Ontologic-Aware Feature Modeling Environment"
       authors: Guillaume Bécan, Sana Ben Nasr, Benoit Baudry
       where: JLDP
       year: 2013
       pdf: http://hal.inria.fr/docs/00/91/56/62/PDF/JLDP2013_KSynthesis.pdf
+-
+  year: 2014
+  publications:
+    -
+      title: "Comparing or Configuring Products: Are We Getting the Right Ones?"
+      authors: Nicolas Sannier, Guillaume Bécan, Mathieu Acher, Sana Ben Nasr, Benoit Baudry
+      where: VaMoS
+      year: 2014
+      pdf: http://hal.inria.fr/docs/00/92/73/12/PDF/VAMOS2014vision.pdf
+      slides: http://fr.slideshare.net/gbecan/vamos2014
+    -
+      title: "WebFML: Synthesizing Feature Models Everywhere"
+      authors: Guillaume Bécan, Sana Ben Nasr, Mathieu Acher, Benoit Baudry
+      where: SPLC
+      year: 2014
+      pdf: http://hal.inria.fr/docs/01/02/29/12/PDF/SPLC2014-WebFML.pdf
+    -
+      title: "Automating the Formalization of Product Comparison Matrices"
+      authors: Guillaume Bécan, Nicolas Sannier, Mathieu Acher, Olivier Barais, Arnaud Blouin, Benoit Baudry
+      where: ASE
+      year: 2014
+      pdf: http://hal.inria.fr/docs/01/05/84/40/PDF/FromData2Models.pdf
+      slides: http://fr.slideshare.net/gbecan/ase2014-presentation
+    -
+      title: "Les Secrets de Variabilité d’un Générateur de Vidéos en Ligne"
+      authors: Guillaume Bécan, Mathieu Acher
+      where: JLDP
+      year: 2014
+-
+  year: 2015
+  publications:
+  -
+    title: "Synthesis of Attributed Feature Models From Product Descriptions: Foundations"
+    authors: Guillaume Bécan, Razieh Behjati, Arnaud Gotlieb, Mathieu Acher
+    where: Technical Report RT-8680, Inria
+    year: 2015
+    pdf: https://hal.inria.fr/hal-01116663/document
+  -
+    title: "On the Variability Secrets of an Online Video Generator"
+    authors: Guillaume Bécan, Mathieu Acher, Jean-Marc Jézéquel, Thomas Menguy
+    where: VaMoS
+    year: 2015
+    pdf: https://hal.inria.fr/hal-01104797/document
+  -
+    title: "Breathing ontological knowledge into feature model synthesis: an empirical study"
+    authors: Guillaume Bécan, Mathieu Acher, Benoit Baudry, Sana Ben Nasr
+    where: Empirical Software Engineering
+    year: 2015
+    pdf: https://hal.inria.fr/hal-01096969/document
+  -
+    title: "Synthesis of Attributed Feature Models From Product Descriptions"
+    authors: Guillaume Bécan, Razieh Behjati, Arnaud Gotlieb, Mathieu Acher
+    where: SPLC
+    year: 2015
+    pdf: https://hal.inria.fr/hal-01178454/document
+    slides: http://fr.slideshare.net/acher/synthesis-of-attributed-feature-models-from-product-descriptions
+  -
+    title: "MatrixMiner: A Red Pill to Architect Informal Product Descriptions in the Matrix"
+    authors: Sana Ben Nasr, Guillaume Bécan, Mathieu Acher, João Bosco Ferreira Filho, Benoit Baudry, Nicolas Sannier, Jean-Marc Davril
+    where: FSE
+    year: 2015
+    pdf: https://hal.inria.fr/hal-01234338/document
+  -
+    title: "Product Lines Can Jeopardize Their Trade Secrets"
+    authors: Mathieu Acher, Guillaume Bécan, Benoit Combemale, Benoit Baudry, Jean-Marc Jézéquel
+    where: FSE
+    year: 2015
+    pdf: https://hal.inria.fr/hal-01234342/document
+    slides: http://fr.slideshare.net/gbecan/product-lines-can-jeopardize-their-trade-secrets
+  -
+    title: "On Breaking The Curse of Dimensionality in Reverse Engineering Feature Models"
+    authors: Jean-Marc Davril, Mathieu Acher, Guillaume Bécan, Patrick Heymans
+    where: Configuration Workshop
+    year: 2015
 
 
 
